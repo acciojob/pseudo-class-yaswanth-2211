@@ -3,14 +3,14 @@
 	margin:20px;}
 	
 main:before{
-	content:"Before Element";
-	color:red;
+	color:rgb(255,0,0);
+	content:'Before Element';
 	font-size:20px;
 	
 }
 main:after{
-	content:"After Element";
-	color:red;
+	color:rgb(255,0,0);
+	content:'After Element';
 	font-size:20px;
 	
 }
